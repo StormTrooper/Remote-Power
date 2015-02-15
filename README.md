@@ -7,7 +7,9 @@ http://www.raspberrypi.org/documentation/remote-access/web-server/apache.md
 
 
 1) Copy \images to /var/www/images
+
 2) Copy power.py and reset.py to /usr/scripts and make them executable.
+
 3) Copy compters.txt, index.php, power.php and resetconfirm.php to /var/www
 
 computers.txt contains a list of computers and the corresponding GPIO reset/power pins
